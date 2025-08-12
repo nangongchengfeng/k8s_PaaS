@@ -95,7 +95,7 @@
       <li><a href="https://github.com/ben1234560/k8s_PaaS/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0%E2%80%94%E2%80%94%E5%9C%A8K8S%E4%B8%AD%E9%9B%86%E6%88%90Apollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.md#%E5%AE%9E%E6%88%98%E6%BC%94%E7%A4%BA%E9%A1%B9%E7%9B%AE%E6%8F%90%E6%B5%8B%E5%8F%91%E7%89%88%E6%B5%81%E7%A8%8B">实战演示项目提测，发版流程</a>
     </ul>
   </li>
-  <li><a href="https://github.com/ben1234560/k8s_PaaS/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%E2%80%94%E2%80%94Promtheus%E7%9B%91%E6%8E%A7k8s%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8.md">第七章——Promtheus监控k8s企业家应用</a>
+  <li><a href="https://github.com/ben1234560/k8s_PaaS/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%E2%80%94%E2%80%94Promtheus%E7%9B%91%E6%8E%A7k8s%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8.md">第七章——Promtheus监控k8s企业级应用</a>
     <ul>
       <li><a href="https://github.com/ben1234560/k8s_PaaS/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%E2%80%94%E2%80%94Promtheus%E7%9B%91%E6%8E%A7k8s%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8.md#prometheus%E7%9B%91%E6%8E%A7%E8%BD%AF%E4%BB%B6%E6%A6%82%E8%BF%B0">Prometheus监控软件概述</a>
       <li><a href="https://github.com/ben1234560/k8s_PaaS/blob/master/%E7%AC%AC%E4%B8%83%E7%AB%A0%E2%80%94%E2%80%94Promtheus%E7%9B%91%E6%8E%A7k8s%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%BA%94%E7%94%A8.md#%E4%BA%A4%E4%BB%98kube-state-metric">交付kube-state-metric</a>
@@ -145,13 +145,19 @@
 
 ## 互助群
 
-QQ群号：676040917（群未回的，请一定要提Issues或者发邮件给作者）
+2025年5月1日创建了新群，QQ群号：1045126911（群未回的，请一定要提Issues或者发邮件给作者）
+
+<div align='left'>
+    <img src="assets/20250507161451121.png" alt="qq_group1" style="width: 270px; height: auto;">
+</div>
+
+群内禁止一切广告，只为解决问题而存在。
+
+首群的QQ群号：676040917（满员了）
 
 <div align='left'>
     <img src="assets/1637049717005.png" alt="qq_group" style="max-width: 100%;">
 </div>
-群内禁止一切广告，只为解决问题而存在。
-
 
 
 ## 贡献者
@@ -164,7 +170,10 @@ QQ群号：676040917（群未回的，请一定要提Issues或者发邮件给作
 
 ## 说明
 
+<a href="https://hellogithub.com/repository/f6b4d10a91384d2ca6cd6285a9d3bc60" target="_blank"><img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=f6b4d10a91384d2ca6cd6285a9d3bc60&claim_uid=2jDLrGaINM0CKfO" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 <p> 本专题并不用于商业用途，转载请注明本专题地址，如有侵权，请务必邮件通知作者。
 <p> 本人水平有限，文字代码难免有遗漏错误的地方，望不吝赐教，万分感谢。
 <p> Email：909336740@qq.com
 <p> PS：看到点赞很开心，谢谢😊
+
